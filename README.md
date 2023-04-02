@@ -17,3 +17,4 @@ How it works?
 Very cool and realistic workflow, simple enough though. More complex things are coming.
 
 
+Note: You see this failing because I deleted the Elastic Beanstalk instances from AWS since I do not want to get charged for no reason :P 
