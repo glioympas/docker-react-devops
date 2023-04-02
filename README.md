@@ -1,6 +1,6 @@
 # Training
 
-Experimenting/Testing/Trying some DevOps stuff for learning purposes. It a really interesting field that I try to develop some skils on it, on my free time.
+Experimenting/Testing/Trying some DevOps stuff for learning purposes. A really interesting field to me, that I try to develop some skils on it, on my free time, while working as a Software Engineer.
 
 Deploying a React app with Docker, Github, Travis CI & AWS Elastic Beanstalk.
 
